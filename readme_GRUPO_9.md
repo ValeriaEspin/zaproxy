@@ -11,7 +11,7 @@ La herramienta es multiplataforma, tiene interfaz gráfica, línea de comandos y
 
 ---
 
-## 🎯 Justificación de la elección del repositorio
+## 🎯 Justificación de la elección del repositorio.
 
 Como grupo decidimos trabajar con **OWASP ZAP** por las siguientes razones técnicas:
 
